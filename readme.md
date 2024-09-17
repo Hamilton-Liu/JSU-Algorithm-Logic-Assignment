@@ -1,12 +1,15 @@
 # 江苏大学《数字逻辑》课后单元作业
+
 ---
->By Hamilton_Liu, 2024.9, School of Computer Science and Communication Engineering, Jiangsu University.
+
+> By Hamilton_Liu, 2024.9, School of Computer Science and Communication Engineering, Jiangsu University.
 
 ### 介绍
+
 - 仓库存放江苏大学计算机科学与通信工程学院任庆桦老师《数字逻辑》课程配套作业的个人答案，仅作学习记录和参考用，不保证答案正确性与时效性。
-- 课程使用的教材是`《数字逻辑电路设计》（鲍可进，清华大学出版社，第四版）`。
+- 课程使用的教材是 `《数字逻辑电路设计》（鲍可进，清华大学出版社，第四版）`。
 - 内容使用Typst编写，使用到的字体存放在/fonts中。
 - 答案并不全，只包含了课后习题中任老师指定选做的部分内容。
-- 如果帮助到了你，欢迎留言或star本仓库。求知的道路是曲折的，愿与君共勉。:heart:
+- 如果帮助到了你，欢迎留言或star本仓库。求知的道路是曲折的，愿与君共勉。:heart: 
 
->Tip：请在参阅本仓库内容前先独立完成相关题目。
+> Tip：请在参阅本仓库内容前先独立完成相关题目。
