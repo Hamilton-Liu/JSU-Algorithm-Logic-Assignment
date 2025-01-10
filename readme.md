@@ -1,7 +1,5 @@
 # 江苏大学《数字逻辑》课后单元作业
 
----
-
 > By Hamilton_Liu, 2024.12, School of Computer Science and Communication Engineering, Jiangsu University.
 
 ### 介绍
